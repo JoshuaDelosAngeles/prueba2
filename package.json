@@ -1,0 +1,11 @@
+{
+  "name": "dia6reto2",
+  "version": "1.0.0",
+  "description": "En primer lugar he creado una carpeta.\r A continuacion , introduzco el comando git init.",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
